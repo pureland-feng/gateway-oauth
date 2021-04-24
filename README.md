@@ -1,1 +1,1 @@
-springcloud+springsecurity+nacos+openfeign + 解决跨域 网关认证鉴权
+springgateway+springsecurity+nacos+openfeign + 解决跨域 网关认证鉴权
